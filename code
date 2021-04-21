@@ -3,8 +3,7 @@ $ cd PycharmProjects
 $ cd apppython
 $ git config --global user.name "Rowida Alfrjani"
 $ git config --global user.email "r.alfrjani@sheffield.ac.uk"
-$ git config --global push.default matching
-$ git config --global alias.co checkout
+echo "# gethub3" >> README.md
 $ git init
 $ git add .
 $ git status
