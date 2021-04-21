@@ -1,0 +1,17 @@
+$ cd /c/Users/User
+$ cd PycharmProjects
+$ cd apppython
+$ git config --global user.name "Rowida Alfrjani"
+$ git config --global user.email "r.alfrjani@sheffield.ac.uk"
+$ git config --global push.default matching
+$ git config --global alias.co checkout
+$ git init
+$ git add .
+$ git status
+$ git commit -am "adding new code file"
+make a new repository in github
+$ git remote add origin https://github.com/RowidaAlfrjani/SettingGit-GitHub-Python.git
+you do it for first time
+git branch -M main
+git push -u origin main  for first time then git push
+
